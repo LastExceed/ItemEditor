@@ -803,9 +803,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(232, 7);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(90, 52);
+            this.label1.Size = new System.Drawing.Size(90, 65);
             this.label1.TabIndex = 6;
-            this.label1.Text = "ToDo:\r\n- multi-select\r\n- detect clientVer.\r\n-SubType\r\n";
+            this.label1.Text = "ToDo:\r\n-SubType\r\n- multi-select\r\n- detect clientVer.\r\n\r\n";
             // 
             // FormMain
             // 
@@ -822,7 +822,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormMain";
-            this.Text = "cwItemEditor (v1.0)";
+            this.Text = "ItemEditor (v1.0)";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
